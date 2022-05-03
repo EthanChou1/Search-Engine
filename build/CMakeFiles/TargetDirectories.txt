@@ -1,0 +1,3 @@
+/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/build/CMakeFiles/22s_final_proj.dir
