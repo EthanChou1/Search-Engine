@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16.3)
+project(22s_final_proj)
+set(CMAKE_CXX_STANDARD 17)
+add_compile_options("-O3")
+add_executable(22s_final_proj main.cpp catch_setup.cpp DSAVLTree.h DSHashTable.h porter2_stemmer.h porter2_stemmer.cpp parseDocument.cpp parseDocument.h invertIndex.cpp invertIndex.h searchQuery.cpp searchQuery.h DocumentInfo.cpp DocumentInfo.h)
