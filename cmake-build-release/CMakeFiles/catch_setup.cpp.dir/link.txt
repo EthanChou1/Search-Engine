@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/catch_setup.cpp.dir/porter2_stemmer.cpp.o CMakeFiles/catch_setup.cpp.dir/parseDocument.cpp.o CMakeFiles/catch_setup.cpp.dir/invertIndex.cpp.o CMakeFiles/catch_setup.cpp.dir/searchQuery.cpp.o CMakeFiles/catch_setup.cpp.dir/DocumentInfo.cpp.o  -o catch_setup.cpp 

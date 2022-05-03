@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="22s_final_proj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22s_final_proj">
+				<Option output="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/22s_final_proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 22s_final_proj"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="22s_final_proj/fast">
+				<Option output="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/22s_final_proj" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 22s_final_proj/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/cmake-build-release/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/DSAVLTree.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/DSHashTable.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/DocumentInfo.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/DocumentInfo.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/catch_setup.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/catch_setup.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/invertIndex.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/invertIndex.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/main.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/parseDocument.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/parseDocument.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/porter2_stemmer.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/porter2_stemmer.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/searchQuery.cpp">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/searchQuery.h">
+			<Option target="22s_final_proj"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/ethan/CLionProjects/22s-final-project-cs2341searchengine/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
