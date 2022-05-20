@@ -16,8 +16,8 @@ searchQuery::searchQuery(const string &nameDirectory){
     //Gets most popular words after indexing
     vector<DSAVLNode<string, vector<DocumentInfo *>>> popularWords = index.mostPopularWords();
     bool keepGoing = true;
-    stonks();
-    cout << endl << "2022 Data $tructure$ $tonk$ $earch Engine" << endl;
+//    stonks();
+    cout << endl << "2022 Data Structures Search Engine" << endl;
     do {
         string option;
         menuOptions();
@@ -90,8 +90,8 @@ void searchQuery::clearIndex(invertIndex &index, vector<DSAVLNode<string, vector
     }
     else if(parseOption == "NO")
     {
-        cout << "———————————No Deleting?————————————" << endl;
-        asciiArt();
+ //       cout << "———————————No Deleting?————————————" << endl;
+ //       asciiArt();
         cout << endl;
     }
 }
@@ -114,8 +114,8 @@ void searchQuery::repopulateIndex(invertIndex &index, vector<DSAVLNode<string, v
     }
     else if(parseOptionTwo == "NO")
     {
-        cout << "——————————No Repopulating?—————————" << endl;
-        asciiArt();
+ //       cout << "——————————No Repopulating?—————————" << endl;
+ //       asciiArt();
         cout << endl;
     }
 }
@@ -299,8 +299,8 @@ void searchQuery::searchIndex(invertIndex &index) {
     if(docList.empty())
     {
         cout << "No documents found." << endl;
-        cout << "—————————No Documents?—————————" << endl;
-        asciiArt();
+ //       cout << "—————————No Documents?—————————" << endl;
+ //       asciiArt();
         cout << endl;
     }
 }
@@ -397,8 +397,8 @@ void searchQuery::displayDoc(vector<DocumentInfo *>& docList, bool sizeLimit) {
         }
         else if(readDoc == "NO")
         {
-            cout << "————————————No Reading?————————————" << endl;
-            asciiArt();
+  //          cout << "————————————No Reading?————————————" << endl;
+  //          asciiArt();
             cout << endl;
             readDocLoop = false;
         }
